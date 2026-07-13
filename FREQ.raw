@@ -1,0 +1,15 @@
+NAME = FREQ
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = FREQ
+DIM = S
+
+ROLLE = Frequenz / Signal / Impuls
+FUNKTION = Übertragung von Impulsen zwischen D3–D5 und META
+
+POSITION = S-Ebene (Signal)
+LINK = D3 (body) + D4 (ANKER) + D5 (API)
+TMP-LAEUFER = SYQ
+
+STATUS = STABIL
+READY = 100%
